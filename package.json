@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "nano": "^10.1.0"
+  },
+  "name": "login-lecture3",
+  "version": "1.0.0",
+  "main": "app.js",
+  "bin": {
+    "login-lecture3": "bin/www.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
